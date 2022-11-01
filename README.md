@@ -13,7 +13,7 @@ Server: Player K joined BLU.
 Backend: Updates K's team to BLU.  
 Server: Player K is now a Heavy.  
 Backend: Updates K's class to Heavy.  
-Client Q: enters the website and sees that K is a heavy on BLU.
+Client Q: enters the website and sees that K is a heavy on BLU.  
 Server: Player K spawned and is now at position X, Y.  
 Backend: Updates K's position on the minimap.  
 Client Q: sees that K is on the map.
